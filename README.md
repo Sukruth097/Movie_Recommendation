@@ -4,10 +4,11 @@ A content based movie recommender system using cosine similarity
 
 The UI of Movie Recommendation System
 
-![image](https://user-images.githubusercontent.com/65019778/158073040-025147e3-edaf-4caa-ac60-c49fd6c74c59.png)
+![image](https://user-images.githubusercontent.com/65019778/158073301-92b071ad-510d-45bf-a882-2bd90cb2ed70.png)
 
-![image](https://user-images.githubusercontent.com/65019778/158073132-d1e19b4b-c86f-4799-8b26-94e86c16188b.png)
+![image](https://user-images.githubusercontent.com/65019778/158073323-d7f7d471-1b14-490b-bc90-55a4fb1e0f14.png)
 
-![image](https://user-images.githubusercontent.com/65019778/158073093-34afd023-7d5b-4d4d-b41a-9bfa1e4c60e6.png)
+![image](https://user-images.githubusercontent.com/65019778/158073274-1ac788be-704c-4f11-bb49-0322451b327c.png)
+
 
 
